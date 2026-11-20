@@ -11,8 +11,10 @@
 ## 🔧 Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,python,git,github,jenkins,docker,kubernetes,terraform,ansible,aws,azure,grafana,prometheus,mysql,nginx" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,python,git,github,jenkins,docker,kubernetes,terraform,ansible,aws,azure,grafana,prometheus,mysql,nginx&perline=6" />
 </p>
+
+---
 
 ---
 

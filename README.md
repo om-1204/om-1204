@@ -1,34 +1,41 @@
-# 👋 Hi, I'm Om
+# 👋 Hi, I'm **Om**
 
 ### 🚀 DevOps Engineer | Cloud Engineer | Linux Engineer | SRE
 
-🌐 Passionate about DevOps, Linux, and Cloud technologies. ☁️ Skilled in AWS, CI/CD, automation, and containerization. ⚙️ Interested in building reliable infrastructure and improving system performance.
+🌐 Passionate about DevOps, Linux, and Cloud technologies.  
+☁️ Skilled in AWS, CI/CD, automation, and containerization.  
+⚙️ Interested in building reliable infrastructure and improving system performance.
 
 ---
 
 ## 🔧 Tools & Technologies
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,python,git,github,jenkins,docker,kubernetes,terraform,ansible,aws,azure,grafana,prometheus,mysql,nginx" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,python,git,github,jenkins,docker,kubernetes,terraform,ansible,aws,azure,grafana,prometheus,mysql,nginx" />
 </p>
+
+---
 
 ## ☁️ Cloud Platforms
 
-- 🌩 **AWS:** EC2, VPC, IAM, S3, EBS, ELB, Auto Scaling, Route 53, CloudWatch.
+- 🌩 **AWS:** EC2, VPC, IAM, S3, EBS, CloudWatch, Load Balancer, Auto Scaling, Route 53.
 - 🌐 **Microsoft Azure:** Cloud infrastructure and services.
 - 🏗 **Infrastructure as Code:** Terraform.
 - 🔐 **Cloud Networking:** VPC, Subnets, Security Groups, Load Balancers, DNS.
 
+---
+
 ## 🐧 Linux Engineering
 
 - 🖥 Linux Administration (RHEL, Ubuntu).
-- 🔧 User and Group Management.
-- 📂 File Systems, Partitions, LVM, Permissions, ACL.
+- 🧩 Shell Scripting (Bash).
+- 📂 File Systems, Partitions, LVM, ACL, Permissions.
 - ⚙️ Process and Service Management (systemd).
-- 📜 Shell Scripting and Automation (Bash).
 - 🔍 System Monitoring and Log Analysis.
 - 🛡 Linux Troubleshooting and Administration.
 - 📦 Package Management and System Patching.
+
+---
 
 ## 🚀 DevOps & Automation
 
@@ -41,6 +48,8 @@
 - 🚀 GitOps and Continuous Deployment using ArgoCD.
 - 📜 Automation using Bash and Python.
 
+---
+
 ## 📊 Monitoring & Site Reliability Engineering
 
 - 📈 Infrastructure and Application Monitoring.
@@ -51,6 +60,8 @@
 - ⚡ Application Performance and API Monitoring.
 - 🔄 Service Recovery and Availability.
 - 🎯 Understanding SLIs, SLOs and SLAs.
+
+---
 
 ## 💻 What I Do
 
@@ -63,6 +74,8 @@
 - Provision infrastructure using Terraform.
 - Automate server configurations using Ansible.
 - Improve application availability and system reliability.
+
+---
 
 ## 🚀 My Projects
 
@@ -85,6 +98,17 @@
 - Created automated service recovery scripts.
 - Practiced production troubleshooting through failure scenarios.
 
+### 🔹 AWS Cost Optimization (Upcoming)
+
+**Technologies:** AWS, Python, Bash, Terraform.
+
+- Exploring AWS infrastructure cost optimization.
+- Identifying unused EC2 instances and orphaned EBS volumes.
+- Reviewing outdated EBS snapshots.
+- Exploring S3 storage optimization.
+
+---
+
 ## 📈 Current Focus
 
 - ☁️ Learning AWS Cloud services.
@@ -94,6 +118,8 @@
 - 📊 Learning Prometheus and Grafana.
 - 🐍 Improving Python and Bash scripting.
 - 🚀 Strengthening Site Reliability Engineering skills.
+
+---
 
 ## 🎓 Certifications
 
@@ -105,8 +131,8 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=om-1204&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=om-1204&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=om-1204&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=om-1204&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---

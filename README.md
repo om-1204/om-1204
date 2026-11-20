@@ -85,15 +85,6 @@
 - Created automated service recovery scripts.
 - Practiced production troubleshooting through failure scenarios.
 
-### 🔹 AWS Cost Optimization (Upcoming)
-
-**Technologies:** AWS, Python, Bash, Terraform.
-
-- Exploring AWS infrastructure cost optimization.
-- Identifying unused EC2 instances and orphaned EBS volumes.
-- Reviewing outdated EBS snapshots.
-- Exploring S3 storage optimization.
-
 ## 📈 Current Focus
 
 - ☁️ Learning AWS Cloud services.
